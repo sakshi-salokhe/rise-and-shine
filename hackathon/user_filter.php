@@ -3,6 +3,7 @@ include_once("header.php");
 ?>
 <html>
 <body>
+<form action="categoryindb.php">
 <div class="row">
 <div class = "col-xs-1 col-sm-1 col-md-1 col-lg-1"></div>
 <div class = "col-xs-3 col-sm-3 col-md-3 col-lg-3">
@@ -10,7 +11,7 @@ include_once("header.php");
 <br>
 <b>Select organisation for:</b>
 <br><br>
-<select>
+<select name = "organization">
   <option value="Select">--Select--</option>
   <option value="Funding">Funding</option>
   <option value="SW">Seminars / Workshops</option>
@@ -23,7 +24,7 @@ include_once("header.php");
 <br>
 <b>Select Domain:</b>
 <br><br>
-<select>
+<select name = "domain">
   <option value="Select">--Select--</option>
   <option value="Funding">IT Industry</option>
   <option value="SW">Fashion</option>
@@ -71,6 +72,7 @@ $rowCount = mysql_num_rows($query);
 </div>
 <br>
 <br>
-<center> <input type="submit" value="Submit" class="buttons" action="categoryindb.php"> </center>
+<center> <input type="submit" value="Submit" class="buttons" > </center>
+</form>
 </body>
 </html>

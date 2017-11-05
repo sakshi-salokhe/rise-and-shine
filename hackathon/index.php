@@ -63,12 +63,11 @@ include_once("header.php");
 	<div class="col-lg-6 col-md-6 ">
 		
 			<h4 class="fontstyle" style="margin-left:10px;">
-				<b style="color:#F7B230">HAPPINESS</b> doesn't result from <br>
-				what we GET, but from what we <br>
-				<b style="color:#F7B230"> GIVE.</b><br>
-				Serve the happiness by serving others.<br>
-				<b style="color:#F7B230">DONATE</b> easily through this platform<br>
-				and</h4> <h3 style="color:#F7B230;margin-left:10px;">Help the Needy!</h3>
+				<b style="color:#F7B230">EMPOWERED</b> woman is <br>
+				<b style="color:#F7B230">POWERFUL </b><br>
+				beyond measure and  <br>
+				<b style="color:#F7B230">SUCCESSFUL </b>beyond DESCRIPTION. <br>
+				</h4> <h3 style="color:#F7B230;margin-left:10px;">Rise and Shine!</h3>
 			
 		
 	</div>

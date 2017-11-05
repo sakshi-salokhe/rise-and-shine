@@ -33,4 +33,5 @@
 	<div class="collapse navbar-collapse" id="myNavbar">
       
     </div>
+	<a href="index.php"> Home </a>
 </div>	

@@ -29,7 +29,7 @@
 						{
 							echo "<script>window.open('seeker.php','_self')</script>";
 						}
-						else
+						else if($b['status'] == "hunter")
 						{
 							echo "<script>window.open('hunter.php','_self')</script>";
 						}	

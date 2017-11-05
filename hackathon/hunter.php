@@ -48,18 +48,27 @@
 </div>	
 </div>
 <div class="row">
-<div class ="col-xs-4 col-sm-4 col-md-4 col-lg-4"> </div>
+<div class ="col-xs-2 col-sm-2 col-md-2 col-lg-2"> </div>
+<div class = "col-xs-4 col-sm-4 col-md-4 col-lg-4">
+<br>
+<br>
+<form action="announcement.php">
+<b>Post an announcement:</b>
+<br>
+<textarea class="announce" name="announce" style="border-color:white;width:100%;"></textarea>
+
+<input type="submit" value="Submit" class="btn btn-primary">
+</form>
+</div>
+<!--<input type="submit" value="Post an announcement" class="btn btn-primary">
+</div>-->
+<div class ="col-xs-3 col-sm-3 col-md-3 col-lg-3"> </div>
 <div class = "col-xs-2 col-sm-2 col-md-2 col-lg-2">
 <br>
 <br>
-<input type="submit" value="Post an announcement" class="btn btn-primary">
+<input type="submit" value="View Ideas" class="btn btn-primary">
 </div>
-<div class = "col-xs-2 col-sm-2 col-md-2 col-lg-2">
-<br>
-<br>
-<input type="submit" value="Search" class="btn btn-primary">
-</div>
-<div class ="col-xs-6 col-sm-6 col-md-6 col-lg-6"> </div>
+<div class ="col-xs-3 col-sm-3 col-md-3 col-lg-3"> </div>
 </div>
 <br>
 <br>

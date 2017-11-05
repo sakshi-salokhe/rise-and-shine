@@ -17,7 +17,7 @@ include_once("header.php");
 					<div class="form-group">
 						<label for="usr"></label>
 						<input type="radio" name="status" value="seeker" checked> Seeker&nbsp;&nbsp;
-						<input type="radio" name="status" value="hunter"> Hunter<br>
+						<input type="radio" name="status" value="hunter"> Investor<br>
 					</div>
 					<div class="form-group">
 						<label for="usr">Name:</label>
