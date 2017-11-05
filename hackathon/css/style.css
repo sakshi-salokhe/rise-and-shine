@@ -1,0 +1,112 @@
+.bg-footer {
+	background-color:#1d1c1c;
+	color:#e8e8e8;
+	margin-left:15px;
+	margin-right:15px;
+	border-radius:4px;
+}
+.bg-footer h4,
+.bg-footer h5,
+.bg-footer a {
+	color: #fff;
+}
+.bg-footer a {
+	color: #e8e8e8;
+}
+.bg-lowerfooter {
+	background-color:#111111;
+	margin-left:15px;
+	margin-right:15px;
+	border-radius:4px;
+}
+.lower-footer {
+	font-size:10px;
+	color:#eee;
+	padding-top:20px;
+	text-transform: uppercase;
+	border-radius:4px;
+}
+.widgets {
+    margin-top: 20px;
+	margin-bottom:30px;
+}
+
+.about img {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+}
+.social-media ul{
+	padding: 0;
+	margin: 10;
+	list-style: none;
+}
+/*.social-media a:hover{
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	color:#FFC162;
+}*/
+.social-media {
+    margin-top: 10px;
+}
+.social-media li {
+	display: inline-block;
+}
+.social-media li i {
+	background-color: #928A8A;
+	border-radius: 50%;
+	color: #ffffff;
+	height: 35px;
+	line-height: 35px;
+	margin-right: 6px;
+	margin-top: -7px;
+	text-align: center;
+	text-decoration: none;
+	width: 35px;
+	font-size: 20px;
+	display: block;
+}
+.social-media li i:hover{
+	color: #FFC162;
+}
+
+/* form buttons */
+.buttons
+{
+	background-color: black;
+	border-radius: 4px;
+	border-color: black;
+	color: #9d9d9d;
+	
+}
+.buttons:hover
+{
+	background-color: black;
+	border-radius: 4px;
+	border-color: black;
+	color: #FFAD39;
+}
+/*carousel*/
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin-left: 20px;
+  }
+  
+ .caption1 {
+    position: absolute;
+    top: 10%;
+	margin-left:15%;
+    /*left: 5%;*/
+    width: 50%;
+	color:white;
+}
+/*map*/
+#map-canvas
+{
+	height:350px;
+	/*width:625px;
+	margin-right:10px;*/
+	padding:0;
+}
